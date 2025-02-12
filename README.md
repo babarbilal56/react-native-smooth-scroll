@@ -1,10 +1,9 @@
 <img src="react-native-smooth-scroll-main.jpg" alt="main image">
 
-# React Native Infinite Scroll
+# React Native Smooth Scroll
 
 A lightweight and customizable infinite scroll component for React Native. Supports pagination, pull-to-refresh, and error handling.
 
-![React Native Infinite Scroll Demo](https://via.placeholder.com/400x800) <!-- Replace with a real demo GIF or image -->
 
 ---
 
